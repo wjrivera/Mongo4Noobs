@@ -12,7 +12,7 @@
 
 #### Installation and Setup (Not implemented)
 
-#### Queries (See Queries folder for now)
+#### [Queries](queries.md) 
 
 #### Inserts/Updates/Deletes (Not implemented)
 

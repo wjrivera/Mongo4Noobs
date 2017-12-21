@@ -12,7 +12,7 @@
 
 #### Installation and Setup (Not implemented)
 
-#### [Queries](queries.md) 
+#### [Queries](https://github.com/wjrivera/Mongo4Noobs/blob/master/queries/queries.md) 
 
 #### Inserts/Updates/Deletes (Not implemented)
 

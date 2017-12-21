@@ -10,7 +10,7 @@
 
 ## Content:
 
-#### Installation and Setup (Not implemented)
+#### [Installation and Setup (Not implemented)](https://github.com/wjrivera/Mongo4Noobs/blob/master/installation/install_main.md)
 
 #### [Queries](https://github.com/wjrivera/Mongo4Noobs/blob/master/queries/queries.md) 
 
